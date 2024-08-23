@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: url(8.png);
+    height: 100%;
+    width: 700px;
+    z-index: -1;
+   
+}
+.navbar{
+  height: 80px;
+  width: 219%;
+  box-shadow: 10px 20px 30px rgb(169, 168, 168);
+}
+.logo{
+  font-size: 35px;
+  background-color: transparent;
+
+}

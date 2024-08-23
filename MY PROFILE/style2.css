@@ -1,0 +1,430 @@
+@media screen and (max-width: 1024px){
+  *{
+    margin: 0;
+    padding: 0;
+  }
+  .c{
+    display: none;
+  }
+ .fa-bars{
+  color: black;
+ }
+  
+  .main{
+    flex-direction: column;
+    margin-top:91px;
+    font-size: 45px;
+    margin-left: 140px;
+  }
+  .main_right{
+    padding-top: 50px;
+
+  }
+  .about78{
+    margin-top: 600px;
+    margin-left: 410px;
+  }
+  .checkbox{
+    flex-direction: column;
+    margin-left: -10px;
+  }
+ .main1{
+    flex-direction: column;
+    margin-left: 180px;
+ }
+ .about1{
+    margin-top: 1000px;
+ }
+ .about67{
+    margin: -1px;
+ }
+ .main_right2{
+  margin-left: 120px;
+  margin-top: 60px;
+ }
+ .pk{
+    flex-wrap: wrap;
+    font-size: 35px;
+ }
+ .about12{
+  margin-top: 495%;
+  margin-left: 70%;
+  margin-right: -80%;
+ }
+ .mainx{
+
+ margin-right: -119%;
+ margin-left: 40%;
+ }
+ .about67{
+  margin-top: 15%;
+  margin-left: 90%;
+ }
+ .box99{
+  margin-left: 2.5%;
+ 
+ }
+ .box991{
+  margin-left: 2.5%;
+ 
+ }
+ .box999{
+  margin-left: 2.5%;
+ }
+ .box9999{
+  margin-left: 2.5%;
+ }
+ .footer{
+  height: 800px;
+  width: 150%;
+  background-color: white;
+ }
+ #f1{
+  background-color: transparent;
+ }
+ .pk{
+  margin-left: -250%;
+  margin-right: -498%;
+ }
+ .poem{
+  margin-left: -89%;
+ }
+ .woke2{
+  font-size: 35px;
+ }
+ #footer{
+  background-color: #5d5d5d;
+  height: 1820px;
+  width: 266%;
+  font-size: 45px;
+  color: white;
+ }
+ .navbar{
+  height: 80px;
+  width: 266%;
+
+}
+.btn1{
+  background-color: black;
+  margin-top: 90%;
+}
+.ohhh{
+  display: flex;
+}
+.cross{
+  background-color: red;
+ 
+}
+.cross1{
+  font-size: 55px;
+  color: white;
+  flex-direction: column;
+  width: 100px;
+  display: flex;
+}
+.cross2{
+  display: none;
+}
+.h6{
+  font-size: 45px;
+  color: blueviolet;
+}
+.pup1{
+  margin-left: 5%;
+  color: white;
+}
+.pup1 span{
+   color: rgb(78, 8, 243);
+}
+.pup span{
+  color: rgb(78, 8, 243);
+}
+}
+
+@media screen and (max-width: 416px){
+  *{
+    margin: 0;
+    padding: 0;
+  }
+  .c{
+    display: none;
+  }
+ .fa-bars{
+  color: black;
+ }
+  
+  .main{
+    flex-direction: column;
+    margin-top:91px;
+    font-size: 45px;
+    margin-left: 140px;
+  }
+  .main_right{
+    padding-top: 50px;
+
+  }
+  .about78{
+    margin-top: 600px;
+    margin-left: 410px;
+  }
+  .checkbox{
+    flex-direction: column;
+    margin-left: -10px;
+  }
+ .main1{
+    flex-direction: column;
+    margin-left: 180px;
+ }
+ .about1{
+    margin-top: 1000px;
+ }
+ .about67{
+    margin: -1px;
+ }
+ .main_right2{
+  margin-left: 120px;
+  margin-top: 60px;
+ }
+ .pk{
+    flex-wrap: wrap;
+    font-size: 24px;
+ }
+ .about12{
+  margin-top: 495%;
+  margin-left: 70%;
+  margin-right: -80%;
+ }
+ .mainx{
+
+ margin-right: -119%;
+ margin-left: 40%;
+ }
+ .about67{
+  margin-top: 15%;
+  margin-left: 90%;
+ }
+ .box99{
+  margin-left: 2.5%;
+ 
+ }
+ .box991{
+  margin-left: 2.5%;
+ 
+ }
+ .box999{
+  margin-left: 2.5%;
+ }
+ .box9999{
+  margin-left: 2.5%;
+ }
+ .footer{
+  height: 800px;
+  width: 150%;
+  background-color: white;
+ }
+ #f1{
+  background-color: transparent;
+ }
+ .pk{
+  margin-left: -250%;
+  margin-right: -498%;
+ }
+ .poem{
+  margin-left: -89%;
+ }
+ .woke2{
+  font-size: 35px;
+ }
+ #footer{
+  background-color: #5d5d5d;
+  height: 1820px;
+  width: 266%;
+  font-size: 45px;
+  color: white;
+ }
+ .navbar{
+  height: 80px;
+  width: 266%;
+
+}
+.btn1{
+  background-color: black;
+  margin-top: 90%;
+}
+.ohhh{
+  display: flex;
+}
+.cross{
+  background-color: red;
+ 
+}
+.cross1{
+  font-size: 55px;
+  color: white;
+  flex-direction: column;
+  width: 100px;
+  display: flex;
+}
+.cross2{
+  display: none;
+}
+.h6{
+  font-size: 45px;
+  color: blueviolet;
+}
+.pup1{
+  margin-left: 5%;
+  color: white;
+}
+.pup1 span{
+   color: rgb(78, 8, 243);
+}
+.pup span{
+  color: rgb(78, 8, 243);
+}
+}
+
+
+
+@media screen and (max-width: 314px){
+  *{
+    margin: 0;
+    padding: 0;
+  }
+  .c{
+    display: none;
+  }
+ .fa-bars{
+  color: black;
+ }
+  
+  .main{
+    flex-direction: column;
+    margin-top:91px;
+    font-size: 45px;
+    margin-left: 140px;
+  }
+  .main_right{
+    padding-top: 50px;
+
+  }
+  .about78{
+    margin-top: 600px;
+    margin-left: 410px;
+  }
+  .checkbox{
+    flex-direction: column;
+    margin-left: -10px;
+  }
+ .main1{
+    flex-direction: column;
+    margin-left: 180px;
+ }
+ .about1{
+    margin-top: 1000px;
+ }
+ .about67{
+    margin: -1px;
+ }
+ .main_right2{
+  margin-left: 120px;
+  margin-top: 60px;
+ }
+ .pk{
+    flex-wrap: wrap;
+    font-size: 24px;
+ }
+ .about12{
+  margin-top: 495%;
+  margin-left: 70%;
+  margin-right: -80%;
+ }
+ .mainx{
+
+ margin-right: -119%;
+ margin-left: 40%;
+ }
+ .about67{
+  margin-top: 15%;
+  margin-left: 90%;
+ }
+ .box99{
+  margin-left: 2.5%;
+ 
+ }
+ .box991{
+  margin-left: 2.5%;
+ 
+ }
+ .box999{
+  margin-left: 2.5%;
+ }
+ .box9999{
+  margin-left: 2.5%;
+ }
+ .footer{
+  height: 800px;
+  width: 150%;
+  background-color: white;
+ }
+ #f1{
+  background-color: transparent;
+ }
+ .pk{
+  margin-left: -250%;
+  margin-right: -498%;
+ }
+ .poem{
+  margin-left: -89%;
+ }
+ .woke2{
+  font-size: 35px;
+ }
+ #footer{
+  background-color: #5d5d5d;
+  height: 1820px;
+  width: 266%;
+  font-size: 45px;
+  color: white;
+ }
+ .navbar{
+  height: 80px;
+  width: 266%;
+
+}
+.btn1{
+  background-color: black;
+  margin-top: 90%;
+}
+.ohhh{
+  display: flex;
+}
+.cross{
+  background-color: red;
+ 
+}
+.cross1{
+  font-size: 55px;
+  color: white;
+  flex-direction: column;
+  width: 100px;
+  display: flex;
+}
+.cross2{
+  display: none;
+}
+.h6{
+  font-size: 45px;
+  color: blueviolet;
+}
+.pup1{
+  margin-left: 5%;
+  color: white;
+}
+.pup1 span{
+   color: rgb(78, 8, 243);
+}
+.pup span{
+  color: rgb(78, 8, 243);
+}
+}
